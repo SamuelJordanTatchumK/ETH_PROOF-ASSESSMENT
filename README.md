@@ -9,11 +9,11 @@ This Solidity smart contract, named MyToken, serves as a basic template for crea
 
 ### 1. Public Variables
 
-tokenName: A public variable representing the name of the token.
+`tokenName`: A public variable representing the name of the token.
 
-tokenAbbrv: A public variable representing the abbreviated symbol of the token.
+`tokenAbbrv`: A public variable representing the abbreviated symbol of the token.
 
-totalSupply: A public variable indicating the total supply of the token.
+`totalSupply`: A public variable indicating the total supply of the token.
 
 ### 2. Balances Mapping
 
